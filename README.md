@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/ramosjef"><img src="https://api.daily.dev/devcards/ae37b07408844c7899f1759a40d74ff4.png?r=h3h" width="400" alt="Jefferson R. Silva's Dev Card"/></a>
+
 <!--
 **ramosjef/ramosjef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
